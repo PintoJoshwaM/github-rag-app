@@ -1,0 +1,6 @@
+http://localhost:8000/docs#/rag/query_repo_api_v1_query_post
+## the app will run in this port ##
+http://localhost:11434/
+## Ollama is running in 11434 ##
+http://localhost:8000/api/v1/query
+## here in 8000 we will get the data from chromadb where we ingest a data that will show the response in terminal as well as localhost : 8000
